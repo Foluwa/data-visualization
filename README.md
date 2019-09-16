@@ -1,3 +1,8 @@
+# Data Visualization with Python, Matplotlib and Pandas | Matplotlib Tutorial
+
+[Pluralsight_Course](https://www.pluralsight.com/courses/data-visualization-with-python-introduction)
+[Youtube](https://www.youtube.com/watch?v=a9UrKTVEeZA&t=1105s)
+
 ```python
 import pandas as pd
 ```
